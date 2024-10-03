@@ -10,4 +10,4 @@ I’m **Nurali Kunayev**, a Computer Science student at UIC.  I have a deep inte
 
 ###    Currently learning:
 - Language Automata
-- I am honing my skills in software development while exploring digital marketing and product strategies. I'm always excited to work on challenging projects and collaborate with like-minded individuals to develop innovative solutions.
+- Honing my skills in software development while exploring digital marketing and product strategies. I'm always excited to work on challenging projects and collaborate with like-minded individuals to develop innovative solutions.
